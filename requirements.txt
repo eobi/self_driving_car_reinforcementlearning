@@ -1,0 +1,24 @@
+backports-abc @ file:///tmp/build/80754af9/backports_abc_1594340052760/work
+backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
+certifi==2021.5.30
+charset-normalizer==2.0.12
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+dataclasses==0.8
+docutils==0.18.1
+idna==3.4
+Kivy==2.0.0
+Kivy-Garden==0.1.5
+kiwisolver @ file:///opt/concourse/worker/volumes/live/f396cc75-ab93-4292-5463-c41bf6c4bd1a/volume/kiwisolver_1612282405830/work
+matplotlib==3.1.1
+numpy==1.14.2
+Pygments==2.14.0
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+requests==2.27.1
+singledispatch @ file:///tmp/build/80754af9/singledispatch_1629321204894/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+torch==1.10.2
+tornado @ file:///opt/concourse/worker/volumes/live/cd39df49-5c81-4c95-513c-5bb83298b7ef/volume/tornado_1606942310103/work
+typing_extensions==4.1.1
+urllib3==1.26.15
